@@ -1,5 +1,4 @@
 function contarCaracteres(palavra) {
-  palavra.split(a).length;
-  console.log(palavra);
+  return palavra.split("").length;
 }
-contarCaracteres("palavra");
+console.log(contarCaracteres("Madara"));
